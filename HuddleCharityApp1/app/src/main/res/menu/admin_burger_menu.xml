@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/createNews"
+        android:title="Create News"
+        />
+    <item
+        android:id="@+id/createCharity"
+        android:title="Create Charity"
+        />
+    <item
+        android:id="@+id/createEvent"
+        android:title="Create Event"
+        />
+    <item
+        android:id="@+id/logout"
+        android:title="@string/logout"
+        />
+
+</menu>

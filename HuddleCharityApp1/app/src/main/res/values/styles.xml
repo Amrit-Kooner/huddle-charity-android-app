@@ -1,0 +1,15 @@
+<resources>
+    <style name="RoundInputs">
+        <item name="android:background">@drawable/w_rounded_input_bg</item>
+    </style>
+    <style name="RoundStyleYellow">
+        <item name="android:background">@drawable/rounded_yellow_corners</item>
+    </style>
+    <style name="RoundStyleWhite">
+        <item name="android:background">@drawable/rounded_white_corners</item>
+    </style>
+
+
+
+
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Huddle Charity App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_page">LOGIN PAGE</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup_page">signup page</string>
+    <string name="signup">signup</string>
+    <string name="email">Email</string>
+    <string name="already_have_an_account">already have an account?</string>
+    <string name="don_t_have_an_account">don\'t have an account?</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="update_user_profile">update_user_profile</string>
+    <string name="placeholder">...</string>
+</resources>

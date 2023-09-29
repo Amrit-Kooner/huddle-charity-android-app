@@ -1,0 +1,5 @@
+<style name="PopupMenuOverlapAnchor" parent="@style/Theme.AppCompat.Light">
+    <item name="android:overlapAnchor">true</item>
+    <item name="android:dropDownVerticalOffset">0dp</item>
+    <item name="android:dropDownHorizontalOffset">0dp</item>
+</style>

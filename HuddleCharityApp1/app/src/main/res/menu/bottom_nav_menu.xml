@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/navigation_view">
+
+    <item android:title="Home"
+        android:icon="@drawable/home_icon_image"
+        android:id="@+id/home_icon"/>
+    <item android:title="Create"
+        android:icon="@drawable/create_icon_image"
+        android:id="@+id/create_icon"/>
+    <item android:title="Inbox"
+        android:icon="@drawable/email_icon_image"
+        android:id="@+id/inbox_icon"/>
+    <item android:title="Portfolio"
+        android:icon="@drawable/portfolio_icon_image"
+        android:id="@+id/portfolio_icon"/>
+</menu>
+

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "122572595845",
+    "project_id": "huddle-app-database",
+    "storage_bucket": "huddle-app-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122572595845:android:ae8f956a240f077e657fec",
+        "android_client_info": {
+          "package_name": "com.example.huddlecharityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122572595845-pannrajuh3qhcr677sgmelg5jn7ee4sd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.huddlecharityapp",
+            "certificate_hash": "d9f4b536c516c6625182f63a7ba62e09cf5dd019"
+          }
+        },
+        {
+          "client_id": "122572595845-7nb4i2go6vs630mj3esr2svo6dac1ovm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT1QvRqZ5XF37l6IHoy88nvZA23EQ_W0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122572595845-7nb4i2go6vs630mj3esr2svo6dac1ovm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
