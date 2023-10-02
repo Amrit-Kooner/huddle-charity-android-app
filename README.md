@@ -1,6 +1,4 @@
 # huddle-charity-android-app
 ...
 
-Live Demo: 
-
-View on my Portfolio:
+View on my Portfolio: https://amrit-kooner.github.io/personal-portfolio/project-huddle.html
